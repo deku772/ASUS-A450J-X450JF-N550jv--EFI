@@ -1,7 +1,7 @@
 ## ASUS-A450J-X450JF--EFI
 
 ### Clover - 10.15.7
-
+### Opencore 0.6.4 - 11.0.1
 ```shell
 华硕ASUS-A450J(X450JF) EFI
 i7 - 4700hq
