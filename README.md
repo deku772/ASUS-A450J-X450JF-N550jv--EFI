@@ -75,4 +75,4 @@ alc269
 请各位留意config.plist
 kernel---apple***cfg**
 
-这两个请勾选
+开头横着有两个请勾选
