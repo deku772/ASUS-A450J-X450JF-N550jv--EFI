@@ -21,7 +21,7 @@ alc269
 [![DYDYMF.jpg](https://s3.ax1x.com/2020/11/23/DYDYMF.jpg)](https://imgchr.com/i/DYDYMF)
 
 ### 完成程度
-
+```
 修复核显
 修复hdmi及其音频
 修复触摸板及外设
@@ -33,8 +33,7 @@ alc269
 
 默认开启跑码-v
 默认关闭sip
-
-
+```
 
 [![Dye3jJ.png](https://s3.ax1x.com/2020/11/28/Dye3jJ.png)](https://imgchr.com/i/Dye3jJ)
 [![DyeGu9.png](https://s3.ax1x.com/2020/11/28/DyeGu9.png)](https://imgchr.com/i/DyeGu9)
